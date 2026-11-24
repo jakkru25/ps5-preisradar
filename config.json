@@ -1,0 +1,78 @@
+{
+  "max_price_eur": 750,
+  "good_deal_eur": 600,
+  "watches": [
+    {
+      "id": "sony-digital",
+      "shop": "PlayStation Direct",
+      "variant": "Digital",
+      "url": "https://direct.playstation.com/de-de/buy-consoles/playstation5-digital-edition-console-model-group-slim"
+    },
+    {
+      "id": "mediamarkt-digital",
+      "shop": "MediaMarkt",
+      "variant": "Digital",
+      "url": "https://www.mediamarkt.de/de/product/_sony-playstationr5-digital-edition-slim-825-gb-3012188.html"
+    },
+    {
+      "id": "saturn-digital",
+      "shop": "Saturn",
+      "variant": "Digital",
+      "url": "https://www.saturn.de/de/product/_sony-playstationr5-digital-edition-slim-825-gb-3012188.html"
+    },
+    {
+      "id": "otto-digital",
+      "shop": "OTTO",
+      "variant": "Digital",
+      "url": "https://www.otto.de/p/playstation-ps5-slim-digital-edition-825-gb-825-gb-ssd-digital-edition-und-dualsense-controller-CS00LP0U8/"
+    },
+    {
+      "id": "otto-disc",
+      "shop": "OTTO",
+      "variant": "Disc",
+      "url": "https://www.otto.de/p/sony-playstation-5-slim-disc-edition-e-chassis-1-tb-spielkonsole-weiss-C2027935296/"
+    },
+    {
+      "id": "expert-digital",
+      "shop": "expert",
+      "variant": "Digital",
+      "url": "https://www.expert.de/shop/unsere-produkte/gaming-freizeit/sony-playstation/playstation-konsolen/11364210744-playstation-5-digital-edition-modellgruppe-slim.html"
+    },
+    {
+      "id": "expert-disc",
+      "shop": "expert",
+      "variant": "Disc",
+      "url": "https://www.expert.de/shop/unsere-produkte/gaming-freizeit/sony-playstation/playstation-konsolen/11364209744-playstation-5-modellgruppe-slim-mit-laufwerk.html"
+    },
+    {
+      "id": "smyths-digital",
+      "shop": "Smyths Toys",
+      "variant": "Digital",
+      "url": "https://www.smythstoys.com/de/de-de/gaming/playstation/playstation-5-konsole-und-zubehoer/ps5-konsole-digital-edition-weiss-modellgruppe-slim/p/232912"
+    },
+    {
+      "id": "smyths-disc",
+      "shop": "Smyths Toys",
+      "variant": "Disc",
+      "url": "https://www.smythstoys.com/de/de-de/gaming/playstation/playstation-5-konsole-und-zubehoer/ps5-konsole-disc-edition-weiss-modellgruppe-slim/p/232911"
+    },
+    {
+      "id": "galaxus-digital",
+      "shop": "Galaxus",
+      "variant": "Digital",
+      "url": "https://www.galaxus.de/de/s1/product/sony-playstation-5-slim-digital-edition-spielkonsole-39726222"
+    },
+    {
+      "id": "galaxus-disc",
+      "shop": "Galaxus",
+      "variant": "Disc",
+      "url": "https://www.galaxus.de/de/s1/product/sony-playstation-5-slim-disc-edition-spielkonsole-39726201"
+    },
+    {
+      "id": "coolblue-digital",
+      "shop": "Coolblue",
+      "variant": "Digital",
+      "url": "https://www.coolblue.de/produkt/941836/playstation-5-slim-digital-edition.html"
+    }
+  ]
+}

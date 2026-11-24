@@ -1,0 +1,11 @@
+{
+  "name": "PS5 Preisradar",
+  "short_name": "PS5 Radar",
+  "description": "PS5 Slim Digital + Disc Preise und Lagerstatus im Blick",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a1020",
+  "theme_color": "#0a1020",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
